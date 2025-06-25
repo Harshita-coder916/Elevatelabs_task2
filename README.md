@@ -4,7 +4,7 @@ The task focuses on data manipulation operations (INSERT, UPDATE, DELETE), handl
 # SQL Internship – Task 2: Data Insertion & NULL Handling
 
 This repository contains the SQL scripts for **Task 2** of the SQL Developer Internship.  
-The task focuses on data manipulation operations (INSERT, UPDATE, DELETE), handling `NULL`s, partial inserts, transactions, and select-based inserts.
+
 
 ---
 
